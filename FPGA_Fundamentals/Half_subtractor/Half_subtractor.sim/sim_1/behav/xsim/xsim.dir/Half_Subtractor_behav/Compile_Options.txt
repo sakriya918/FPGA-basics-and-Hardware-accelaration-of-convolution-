@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Half_Subtractor_behav" "xil_defaultlib.Half_Subtractor" -log "elaborate.log" 

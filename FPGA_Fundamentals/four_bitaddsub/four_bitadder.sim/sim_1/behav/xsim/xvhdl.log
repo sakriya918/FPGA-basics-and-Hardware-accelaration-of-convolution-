@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/Vivado/four_bitaddsub/four_bitadder.srcs/sources_1/new/four_bitadder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'four_bitadder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/Vivado/four_bitaddsub/four_bitadder.srcs/sources_1/new/fulladder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'fulladder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/Vivado/four_bitaddsub/four_bitadder.srcs/sim_1/new/four_bitadder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'four_bitadder_tb'

@@ -1,0 +1,2 @@
+to extract vhd file: filename/filename.srcs/sources_1/new/filename.vhd
+to extract testbench file: filename/filename.srcs/sim_1/new/filename.vhd

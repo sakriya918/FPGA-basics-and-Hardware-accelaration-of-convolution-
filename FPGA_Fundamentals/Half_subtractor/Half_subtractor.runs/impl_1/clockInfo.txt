@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2024.1
+| Date         : Wed Sep 11 20:27:41 2024
+| Host         : DESKTOP-J74V7E8
+| Design       : checkpoint_Half_Subtractor
+| Device       : xc7a50t-csg324-1--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+

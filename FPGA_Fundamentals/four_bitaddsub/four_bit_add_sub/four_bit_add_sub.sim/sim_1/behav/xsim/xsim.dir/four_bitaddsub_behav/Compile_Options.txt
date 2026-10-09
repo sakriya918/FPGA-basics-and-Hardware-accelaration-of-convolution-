@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "four_bitaddsub_behav" "xil_defaultlib.four_bitaddsub" -log "elaborate.log" 

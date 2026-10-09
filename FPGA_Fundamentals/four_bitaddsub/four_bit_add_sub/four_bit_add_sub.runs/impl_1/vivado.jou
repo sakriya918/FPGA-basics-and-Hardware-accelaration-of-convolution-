@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Sep 23 00:18:55 2024
+# Process ID: 16944
+# Current directory: C:/Users/Asus/Desktop/Vivado/four_bitaddsub_dupli/four_bit_add_sub/four_bit_add_sub.runs/impl_1
+# Command line: vivado.exe -log four_bitaddsub.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source four_bitaddsub.tcl -notrace
+# Log file: C:/Users/Asus/Desktop/Vivado/four_bitaddsub_dupli/four_bit_add_sub/four_bit_add_sub.runs/impl_1/four_bitaddsub.vdi
+# Journal file: C:/Users/Asus/Desktop/Vivado/four_bitaddsub_dupli/four_bit_add_sub/four_bit_add_sub.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-J74V7E8
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+# CPU Frequency     :2592 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :17037 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19587 MB
+# Available Virtual :3124 MB
+#-----------------------------------------------------------
+source four_bitaddsub.tcl -notrace

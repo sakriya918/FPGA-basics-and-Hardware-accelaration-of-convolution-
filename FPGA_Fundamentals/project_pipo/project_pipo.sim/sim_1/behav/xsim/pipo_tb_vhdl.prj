@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_pipo.srcs/sources_1/new/pipo.vhd" \
+"../../../../project_pipo.srcs/sim_1/new/pipo_tb.vhd" \
+
+# Do not sort compile order
+nosort
